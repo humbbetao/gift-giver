@@ -1,0 +1,1 @@
+export { maxNumber } from './maxNumber';
